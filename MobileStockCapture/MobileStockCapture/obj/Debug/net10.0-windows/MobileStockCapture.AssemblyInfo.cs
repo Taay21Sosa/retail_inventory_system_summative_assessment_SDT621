@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MobileStockCapture")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+501c2dd543649929330c18a76cdc913c0d396bea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+707d22e20c6bbb6fc4ff17f73b8ccf30cf2d4027")]
 [assembly: System.Reflection.AssemblyProductAttribute("MobileStockCapture")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MobileStockCapture")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
