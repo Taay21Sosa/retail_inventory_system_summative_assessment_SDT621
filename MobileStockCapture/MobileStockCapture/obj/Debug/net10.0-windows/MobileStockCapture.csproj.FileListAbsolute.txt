@@ -14,3 +14,4 @@ C:\Users\nlmbt\OneDrive\Documents\Projects\C#\Summative Assessment - SDT621\Mobi
 C:\Users\nlmbt\OneDrive\Documents\Projects\C#\Summative Assessment - SDT621\MobileStockCapture\MobileStockCapture\obj\Debug\net10.0-windows\MobileStockCapture.pdb
 C:\Users\nlmbt\OneDrive\Documents\Projects\C#\Summative Assessment - SDT621\MobileStockCapture\MobileStockCapture\obj\Debug\net10.0-windows\MobileStockCapture.genruntimeconfig.cache
 C:\Users\nlmbt\OneDrive\Documents\Projects\C#\Summative Assessment - SDT621\MobileStockCapture\MobileStockCapture\obj\Debug\net10.0-windows\ref\MobileStockCapture.dll
+C:\Users\nlmbt\OneDrive\Documents\Projects\C#\Summative Assessment - SDT621\MobileStockCapture\MobileStockCapture\obj\Debug\net10.0-windows\MobileStockCapture.sourcelink.json
